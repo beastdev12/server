@@ -1,0 +1,80 @@
+[
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "nbt": "{Items:[{Slot:3b,id:\"minecraft:trident\"}]}"
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:loyalty\"}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:channeling\"}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:riptide\",lvl:10s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/riptide/riptide_10"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/riptide/riptide_9"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/riptide/riptide_8"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/riptide/riptide_7"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/riptide/riptide_6"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/riptide/riptide_5"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/riptide/riptide_4"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/riptide/riptide_3"
+            }
+        ]
+    }
+]

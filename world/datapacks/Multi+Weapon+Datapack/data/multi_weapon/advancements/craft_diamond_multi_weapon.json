@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "multi_weapon:craft_diamond_multi_weapon"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "multi_weapon:diamond_multi_weapon"
+      }
+    }
+  }
+}

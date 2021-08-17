@@ -1,0 +1,38 @@
+[
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "nbt": "{Items:[{Slot:3b,id:\"minecraft:crossbow\"}]}"
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:quick_charge\",lvl:5s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/quick_charge/quick_charge_5"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/quick_charge/quick_charge_4"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/quick_charge/quick_charge_3"
+            }
+        ]
+    }
+]

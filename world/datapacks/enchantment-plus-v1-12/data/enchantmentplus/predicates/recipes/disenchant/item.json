@@ -1,0 +1,29 @@
+[
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "block": {
+        "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{}]}}]}"
+      }
+    }
+  },
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "block": {
+        "nbt": "{Items:[{Slot:5b,id:\"minecraft:book\",Count:1b}]}"
+      }
+    }
+  },
+  {
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:location_check",
+      "predicate": {
+        "block": {
+          "nbt": "{Items:[{Slot:8b}]}"
+        }
+      }
+    }
+  }
+]

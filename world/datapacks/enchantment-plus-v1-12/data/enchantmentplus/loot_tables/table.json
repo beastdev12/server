@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:command",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:chicken_spawn_egg",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": 1
+                        },
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{EnchantmentPlusId:\"table\",CustomModelData:100000,display:{Name:'{\"text\":\"Enchantment+ Table\",\"color\":\"yellow\",\"italic\":false}'},EntityTag:{id:\"minecraft:area_effect_cloud\",Radius:0f,Duration:-1,Age:-2147483648,WaitTime:-2147483648,Tags:[\"enchantmentplus_place\"]}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

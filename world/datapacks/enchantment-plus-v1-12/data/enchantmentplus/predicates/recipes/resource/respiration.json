@@ -1,0 +1,446 @@
+[
+    {
+        "condition": "minecraft:reference",
+        "name": "enchantmentplus:recipes/gears/head_turtle"
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:respiration\",lvl:10s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:12b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:13b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:14b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:15b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:16b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:17b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:18b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:19b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:20b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:21b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:22b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:23b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:24b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:25b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:26b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:27b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:28b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:29b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:30b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:31b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:32b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:33b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:34b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:35b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:36b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:37b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:38b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:39b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:40b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:41b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:42b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:43b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:44b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:45b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:46b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:47b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:48b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:49b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:50b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:51b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:52b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:53b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:54b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:55b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:56b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:57b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:58b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:59b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:60b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:61b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:62b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:63b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:nautilus_shell\",Count:64b}]}"
+                    }
+                }
+            }
+        ]
+    }
+]

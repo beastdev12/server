@@ -1,0 +1,347 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/swords"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/pickaxes"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/axes"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/shovels"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/hoes"
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,id:\"minecraft:shears\"}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,id:\"minecraft:trident\"}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,id:\"minecraft:bow\"}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,id:\"minecraft:crossbow\"}]}"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Direct:1b}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "nbt": "{Items:[{Slot:5b,id:\"minecraft:ender_pearl\",Count:16b}]}"
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:32b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:33b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:34b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:35b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:36b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:37b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:38b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:39b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:40b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:41b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:42b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:43b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:44b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:45b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:46b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:47b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:48b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:49b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:50b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:51b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:52b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:53b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:54b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:55b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:56b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:57b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:58b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:59b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:60b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:61b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:62b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:63b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:7b,id:\"minecraft:chorus_fruit\",Count:64b}]}"
+                    }
+                }
+            }
+        ]
+    }
+]

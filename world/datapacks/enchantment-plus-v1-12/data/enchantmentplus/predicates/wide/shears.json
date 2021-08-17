@@ -1,0 +1,73 @@
+[
+    {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "equipment": {
+                "mainhand": {
+                    "items": [
+                        "minecraft:shears"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "tag": "minecraft:flowers"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "tag": "minecraft:leaves"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "tag": "minecraft:saplings"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "tag": "minecraft:wool"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "blocks": [
+                            "minecraft:grass",
+                            "minecraft:tall_grass",
+                            "minecraft:fern",
+                            "minecraft:dead_bush",
+                            "minecraft:cobweb",
+                            "minecraft:nether_sprouts",
+                            "minecraft:weeping_vines",
+                            "minecraft:twisting_vines",
+                            "minecraft:tripwire",
+                            "minecraft:vines",
+                            "minecraft:glow_lichen",
+                            "minecraft:seagrass"
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+]

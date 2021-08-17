@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "long_pickaxe:craft_longer_iron_pickaxe"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "long_pickaxe:longer_iron_pickaxe"
+      }
+    }
+  }
+}

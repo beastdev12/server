@@ -1,0 +1,279 @@
+[
+    {
+        "condition": "minecraft:reference",
+        "name": "enchantmentplus:recipes/gears/chest_elytra"
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Thermal:1b}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "nbt": "{Items:[{Slot:5b,id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:long_fire_resistance\"}}]}"
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:50b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:51b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:52b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:53b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:54b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:55b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:56b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:57b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:58b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:59b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:60b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:61b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:62b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:63b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:6b,id:\"minecraft:iron_ingot\",Count:64b}]}"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "condition": "minecraft:reference",
+        "name": "enchantmentplus:recipes/materials/nether_star"
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:50b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:51b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:52b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:53b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:54b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:55b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:56b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:57b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:58b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:59b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:60b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:61b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:62b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:63b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:8b,id:\"minecraft:magma_cream\",Count:64b}]}"
+                    }
+                }
+            }
+        ]
+    }
+]

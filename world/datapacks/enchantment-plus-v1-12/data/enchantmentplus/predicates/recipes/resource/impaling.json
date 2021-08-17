@@ -1,0 +1,226 @@
+[
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "nbt": "{Items:[{Slot:3b,id:\"minecraft:trident\"}]}"
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:impaling\",lvl:10s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:40b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:41b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:42b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:43b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:44b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:45b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:46b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:47b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:48b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:49b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:50b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:51b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:52b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:53b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:54b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:55b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:56b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:57b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:58b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:59b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:60b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:61b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:62b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:63b}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:prismarine_crystals\",Count:64b}]}"
+                    }
+                }
+            }
+        ]
+    }
+]

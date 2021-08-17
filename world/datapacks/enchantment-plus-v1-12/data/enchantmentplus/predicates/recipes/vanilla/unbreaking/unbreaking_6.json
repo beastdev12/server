@@ -1,0 +1,43 @@
+[
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "nbt": "{Items:[{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:6s}]}}]}"
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:unbreaking\",lvl:9s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:unbreaking\",lvl:8s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:unbreaking\",lvl:7s}]}}]}"
+                }
+            }
+        }
+    }
+]

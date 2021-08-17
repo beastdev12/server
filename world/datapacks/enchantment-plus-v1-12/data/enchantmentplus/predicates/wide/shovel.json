@@ -1,0 +1,33 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "items": [
+                                "minecraft:netherite_shovel",
+                                "minecraft:diamond_shovel",
+                                "minecraft:iron_shovel",
+                                "minecraft:golden_shovel",
+                                "minecraft:stone_shovel",
+                                "minecraft:wooden_shovel"
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "tag": "minecraft:mineable/shovel"
+            }
+        }
+    }
+]

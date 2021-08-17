@@ -1,0 +1,21 @@
+[
+    {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "flags": {
+                "is_sneaking": true
+            }
+        }
+    },
+    {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": {
+            "ENCHLumberOpt": {
+                "min": 1,
+                "max": 1
+            }
+        }
+    }
+]

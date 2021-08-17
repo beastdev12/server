@@ -1,0 +1,14 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{Unbreakable:1b}"
+    },
+    {
+        "function": "minecraft:set_enchantments",
+        "enchantments": {
+            "minecraft:unbreaking": 0,
+            "minecraft:mending": 0
+        },
+        "add": false
+    }
+]

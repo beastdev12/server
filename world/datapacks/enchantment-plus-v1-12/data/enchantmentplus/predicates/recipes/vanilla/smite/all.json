@@ -1,0 +1,77 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/swords"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/axes"
+            }
+        ]
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:sharpness\"}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:bane_of_arthropods\"}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:smite\",lvl:10s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/smite/smite_10"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/smite/smite_9"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/smite/smite_8"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/smite/smite_7"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/smite/smite_6"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/smite/smite_5"
+            }
+        ]
+    }
+]

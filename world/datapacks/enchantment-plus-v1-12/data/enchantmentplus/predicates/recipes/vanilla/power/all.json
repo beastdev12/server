@@ -1,0 +1,50 @@
+[
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "nbt": "{Items:[{Slot:3b,id:\"minecraft:bow\"}]}"
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:power\",lvl:10s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/power/power_10"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/power/power_9"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/power/power_8"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/power/power_7"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/power/power_6"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/power/power_5"
+            }
+        ]
+    }
+]

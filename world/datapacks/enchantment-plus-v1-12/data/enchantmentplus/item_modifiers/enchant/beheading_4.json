@@ -1,0 +1,20 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{Beheading:4b}"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            [
+                {
+                    "text": "Beheading IV",
+                    "color": "#85C46F",
+                    "italic": false
+                }
+            ]
+        ],
+        "replace": false
+    }
+]

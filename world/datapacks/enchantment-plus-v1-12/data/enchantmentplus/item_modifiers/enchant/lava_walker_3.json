@@ -1,0 +1,20 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{LavaWalker:3b}"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            [
+                {
+                    "text": "Lava Walker III",
+                    "color": "#CC2200",
+                    "italic": false
+                }
+            ]
+        ],
+        "replace": false
+    }
+]

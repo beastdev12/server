@@ -1,0 +1,54 @@
+[
+    {
+        "condition": "minecraft:reference",
+        "name": "enchantmentplus:recipes/gears/head_turtle"
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:respiration\",lvl:10s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/respiration/respiration_10"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/respiration/respiration_9"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/respiration/respiration_8"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/respiration/respiration_7"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/respiration/respiration_6"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/respiration/respiration_5"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/respiration/respiration_4"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/respiration/respiration_3"
+            }
+        ]
+    }
+]

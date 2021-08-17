@@ -1,0 +1,32 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{Fists:3b}"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            [
+                {
+                    "text": "Stone Fists III",
+                    "color": "dark_gray",
+                    "italic": false
+                }
+            ]
+        ],
+        "replace": false
+    },
+    {
+        "function": "minecraft:set_attributes",
+        "modifiers": [
+            {
+                "attribute": "minecraft:generic.attack_damage",
+                "name": "enchantmentplus:generic.attack_damage",
+                "amount": 9,
+                "operation": "addition",
+                "slot": "chest"
+            }
+        ]
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{HealthBoost:4b}"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            [
+                {
+                    "text": "Health Boost IV",
+                    "color": "#FF689F",
+                    "italic": false
+                }
+            ]
+        ],
+        "replace": false
+    },
+    {
+        "function": "minecraft:set_attributes",
+        "modifiers": [
+            {
+                "attribute": "minecraft:generic.max_health",
+                "name": "enchantmentplus:generic.max_health",
+                "amount": 8,
+                "operation": "addition",
+                "slot": "head"
+            }
+        ],
+        "conditions": [
+            {
+                "condition": "minecraft:alternative",
+                "terms": [
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "type": "minecraft:player",
+                            "equipment": {
+                                "mainhand": {
+                                    "items": [
+                                        "minecraft:netherite_helmet",
+                                        "minecraft:diamond_helmet",
+                                        "minecraft:iron_helmet",
+                                        "minecraft:chainmail_helmet",
+                                        "minecraft:golden_helmet",
+                                        "minecraft:leather_helmet",
+                                        "minecraft:turtle_helmet"
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:netherite_helmet\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:diamond_helmet\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:iron_helmet\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:chainmail_helmet\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:golden_helmet\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:leather_helmet\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:turtle_helmet\"}]}"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_attributes",
+        "modifiers": [
+            {
+                "attribute": "minecraft:generic.max_health",
+                "name": "enchantmentplus:generic.max_health",
+                "amount": 8,
+                "operation": "addition",
+                "slot": "chest"
+            }
+        ],
+        "conditions": [
+            {
+                "condition": "minecraft:alternative",
+                "terms": [
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "type": "minecraft:player",
+                            "equipment": {
+                                "mainhand": {
+                                    "items": [
+                                        "minecraft:netherite_chestplate",
+                                        "minecraft:diamond_chestplate",
+                                        "minecraft:iron_chestplate",
+                                        "minecraft:chainmail_chestplate",
+                                        "minecraft:golden_chestplate",
+                                        "minecraft:leather_chestplate",
+                                        "minecraft:elytra"
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:netherite_chestplate\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:diamond_chestplate\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:iron_chestplate\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:chainmail_chestplate\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:golden_chestplate\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:leather_chestplate\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:elytra\"}]}"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_attributes",
+        "modifiers": [
+            {
+                "attribute": "minecraft:generic.max_health",
+                "name": "enchantmentplus:generic.max_health",
+                "amount": 8,
+                "operation": "addition",
+                "slot": "legs"
+            }
+        ],
+        "conditions": [
+            {
+                "condition": "minecraft:alternative",
+                "terms": [
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "type": "minecraft:player",
+                            "equipment": {
+                                "mainhand": {
+                                    "items": [
+                                        "minecraft:netherite_leggings",
+                                        "minecraft:diamond_leggings",
+                                        "minecraft:iron_leggings",
+                                        "minecraft:chainmail_leggings",
+                                        "minecraft:golden_leggings",
+                                        "minecraft:leather_leggings"
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:netherite_leggings\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:diamond_leggings\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:iron_leggings\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:chainmail_leggings\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:golden_leggings\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:leather_leggings\"}]}"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_attributes",
+        "modifiers": [
+            {
+                "attribute": "minecraft:generic.max_health",
+                "name": "enchantmentplus:generic.max_health",
+                "amount": 8,
+                "operation": "addition",
+                "slot": "feet"
+            }
+        ],
+        "conditions": [
+            {
+                "condition": "minecraft:alternative",
+                "terms": [
+                    {
+                        "condition": "minecraft:entity_properties",
+                        "entity": "this",
+                        "predicate": {
+                            "type": "minecraft:player",
+                            "equipment": {
+                                "mainhand": {
+                                    "items": [
+                                        "minecraft:netherite_boots",
+                                        "minecraft:diamond_boots",
+                                        "minecraft:iron_boots",
+                                        "minecraft:chainmail_boots",
+                                        "minecraft:golden_boots",
+                                        "minecraft:leather_boots"
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:netherite_boots\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:diamond_boots\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:iron_boots\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:chainmail_boots\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:golden_boots\"}]}"
+                            }
+                        }
+                    },
+                    {
+                        "condition": "minecraft:location_check",
+                        "predicate": {
+                            "block": {
+                                "nbt": "{Items:[{Slot:3b,id:\"minecraft:leather_boots\"}]}"
+                            }
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]

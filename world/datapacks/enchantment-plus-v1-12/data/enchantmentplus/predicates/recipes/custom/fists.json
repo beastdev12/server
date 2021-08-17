@@ -1,0 +1,49 @@
+[
+    {
+        "condition": "minecraft:reference",
+        "name": "enchantmentplus:recipes/gears/chest_elytra"
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Fists:3b}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "nbt": "{Items:[{Slot:5b,id:\"minecraft:potion\",Count:1b,tag:{Potion:\"minecraft:strong_strength\"}}]}"
+            }
+        }
+    },
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "nbt": "{Items:[{Slot:6b,id:\"minecraft:smooth_stone\",Count:64b}]}"
+            }
+        }
+    },
+    {
+        "condition": "minecraft:reference",
+        "name": "enchantmentplus:recipes/materials/nether_star"
+    },
+    {
+        "condition": "minecraft:location_check",
+        "offsetX": 0,
+        "offsetY": 0,
+        "offsetZ": 0,
+        "predicate": {
+            "block": {
+                "block": "minecraft:dropper",
+                "nbt": "{Items:[{Slot:8b,id:\"minecraft:smooth_stone\",Count:64b}]}"
+            }
+        }
+    }
+]

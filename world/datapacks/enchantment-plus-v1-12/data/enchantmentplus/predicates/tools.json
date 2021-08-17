@@ -1,0 +1,988 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Lumberjack:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Veinminer:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Wide:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Wide:2b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Wide:3b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Autosmelt:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Beheading:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Beheading:2b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Beheading:3b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Beheading:4b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Beheading:5b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Lifesteal:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Lifesteal:2b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Lifesteal:3b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Direct:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Icy:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Icy:2b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Icy:3b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Icy:4b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{Icy:5b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{AntiGravity:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{ExperienceBoost:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{ExperienceBoost:2b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{ExperienceBoost:3b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{ExperienceBoost:4b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "mainhand": {
+                            "nbt": "{ExperienceBoost:5b}"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHNethPick": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDiaPick": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHIronPick": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGoldPick": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHStonePick": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHWoodPick": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHNethSword": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDiaSword": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHIronSword": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGoldSword": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHStoneSword": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHWoodSword": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHNethAxe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDiaAxe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHIronAxe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGoldAxe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHStoneAxe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHWoodAxe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHNethShovel": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDiaShovel": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHIronShovel": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGoldShovel": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHStoneShovel": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHWoodShovel": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHNethHoe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDiaHoe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHIronHoe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGoldHoe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHStoneHoe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHWoodHoe": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHShears": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHBow": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHMobKills": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHPlayerKills": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDamageDealt": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHCoal": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHCoal2": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHCopper": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHCopper2": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHIron": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHIron2": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGold": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGold2": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGold3": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDiamond": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDiamond2": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHEmerald": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHEmerald2": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHRedstone": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHRedstone2": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHQuartz": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHLapis": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHLapis2": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDebris": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHClay": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGlowstone": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGravel": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHMagma": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHAndesite": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDiorite": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHGranite": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHSkeleton": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHSkeleton2": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHStray": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHZombie": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHZombie2": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHHusk": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHCreeper": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                    "ENCHDragon": {
+                        "min": 1,
+                        "max": 2147483647
+                    }
+                }
+            }
+        ]
+    }
+]

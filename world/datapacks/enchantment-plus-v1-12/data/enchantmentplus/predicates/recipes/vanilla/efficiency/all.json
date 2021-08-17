@@ -1,0 +1,63 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/pickaxes"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/axes"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/shovels"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/tools/hoes"
+            }
+        ]
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:efficiency\",lvl:10s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/efficiency/efficiency_10"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/efficiency/efficiency_9"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/efficiency/efficiency_8"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/efficiency/efficiency_7"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/efficiency/efficiency_6"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/efficiency/efficiency_5"
+            }
+        ]
+    }
+]

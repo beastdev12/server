@@ -1,0 +1,47 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:name_tag\",tag:{display:{Name:'{\"text\":\"Icy I\"}'}}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:name_tag\",tag:{display:{Name:'{\"text\":\"Icy II\"}'}}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:name_tag\",tag:{display:{Name:'{\"text\":\"Icy III\"}'}}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:name_tag\",tag:{display:{Name:'{\"text\":\"Icy IV\"}'}}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:name_tag\",tag:{display:{Name:'{\"text\":\"Icy V\"}'}}}]}"
+                    }
+                }
+            }
+        ]
+    }
+]

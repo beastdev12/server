@@ -1,0 +1,32 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{Traveler:1b}"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            [
+                {
+                    "text": "Traveler I",
+                    "color": "light_purple",
+                    "italic": false
+                }
+            ]
+        ],
+        "replace": false
+    },
+    {
+        "function": "minecraft:set_attributes",
+        "modifiers": [
+            {
+                "attribute": "minecraft:generic.movement_speed",
+                "name": "enchantmentplus:generic.movement_speed",
+                "amount": 0.4,
+                "operation": "multiply_base",
+                "slot": "legs"
+            }
+        ]
+    }
+]

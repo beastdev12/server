@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "95f66c49-959d-35b0-9b28-32a3fe08d134",
+    "name": "beastdev",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ef73d945-a44b-39f5-9994-56d769168263",
+    "name": "beastdevalt",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

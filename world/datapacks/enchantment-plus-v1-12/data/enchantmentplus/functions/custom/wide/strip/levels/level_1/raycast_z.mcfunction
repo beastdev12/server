@@ -1,0 +1,2 @@
+execute positioned ^ ^ ^0.05 if block ~ ~ ~ #enchantmentplus:stripped_logs align xyz run function enchantmentplus:custom/wide/strip/levels/level_1/strip_z
+execute positioned ^ ^ ^0.05 if block ~ ~ ~ #enchantmentplus:raycastable run function enchantmentplus:custom/wide/strip/levels/level_1/raycast_z

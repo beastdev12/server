@@ -1,0 +1,29 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+        {
+            "condition": "minecraft:reference",
+            "name": "enchantmentplus:wide/pickaxes/netherite"
+        },
+        {
+            "condition": "minecraft:reference",
+            "name": "enchantmentplus:wide/pickaxes/diamond"
+        },
+        {
+            "condition": "minecraft:reference",
+            "name": "enchantmentplus:wide/pickaxes/iron"
+        },
+        {
+            "condition": "minecraft:reference",
+            "name": "enchantmentplus:wide/pickaxes/golden"
+        },
+        {
+            "condition": "minecraft:reference",
+            "name": "enchantmentplus:wide/pickaxes/stone"
+        },
+        {
+            "condition": "minecraft:reference",
+            "name": "enchantmentplus:wide/pickaxes/wooden"
+        }
+    ]
+}

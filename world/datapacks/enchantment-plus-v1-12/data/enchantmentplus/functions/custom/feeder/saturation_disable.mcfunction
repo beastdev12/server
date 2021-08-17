@@ -1,0 +1,2 @@
+tellraw @s [{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeeding Module Saturation Mode: ","color":"yellow"},{"text":"[OFF]","color":"red","hoverEvent":{"action":"show_text","value":[{"text":"Currently disabled\nClick to enable"}]},"clickEvent":{"action":"run_command","value":"/trigger ENCHFeederCheck set 2"}}]
+scoreboard players set @s ENCHFeederMode 0

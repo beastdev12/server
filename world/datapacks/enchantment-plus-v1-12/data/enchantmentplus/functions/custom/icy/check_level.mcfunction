@@ -1,0 +1,6 @@
+# Check Level
+execute if data entity @s SelectedItem.tag{Icy:1b} positioned ^ ^ ^3 as @e[type=#enchantmentplus:entities_all,distance=..10,nbt={HurtTime:10s}] at @s run function enchantmentplus:custom/icy/freeze/level_1
+execute if data entity @s SelectedItem.tag{Icy:2b} positioned ^ ^ ^3 as @e[type=#enchantmentplus:entities_all,distance=..10,nbt={HurtTime:10s}] at @s run function enchantmentplus:custom/icy/freeze/level_2
+execute if data entity @s SelectedItem.tag{Icy:3b} positioned ^ ^ ^3 as @e[type=#enchantmentplus:entities_all,distance=..10,nbt={HurtTime:10s}] at @s run function enchantmentplus:custom/icy/freeze/level_3
+execute if data entity @s SelectedItem.tag{Icy:4b} positioned ^ ^ ^3 as @e[type=#enchantmentplus:entities_all,distance=..10,nbt={HurtTime:10s}] at @s run function enchantmentplus:custom/icy/freeze/level_4
+execute if data entity @s SelectedItem.tag{Icy:5b} positioned ^ ^ ^3 as @e[type=#enchantmentplus:entities_all,distance=..10,nbt={HurtTime:10s}] at @s run function enchantmentplus:custom/icy/freeze/level_5

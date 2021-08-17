@@ -1,0 +1,20 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{ExperienceBoost:1b}"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            [
+                {
+                    "text": "Experience Boost I",
+                    "color": "#88FF00",
+                    "italic": false
+                }
+            ]
+        ],
+        "replace": false
+    }
+]

@@ -1,0 +1,8 @@
+Thanks for downloading.
+
+To install,
+
+1. Place this downloaded folder (the .zip these instructions are contained within) into your world's "datapacks" folder.
+
+2. Run the command "/reload" to install the data pack. This will be confirmed with a confirmation message.
+(Note, you must be an operator with commands enabled to run the /reload command).

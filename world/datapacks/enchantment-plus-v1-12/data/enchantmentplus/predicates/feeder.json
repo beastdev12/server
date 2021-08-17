@@ -1,0 +1,23 @@
+[
+    {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "equipment": {
+                "head": {
+                    "nbt": "{Feeder:1b}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": {
+            "ENCHFeederOff": {
+                "min": 0,
+                "max": 0
+            }
+        }
+    }
+]

@@ -1,0 +1,13 @@
+{
+  "rewards": {
+    "function": "long_pickaxe:craft_long_golden_pickaxe"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "long_pickaxe:long_golden_pickaxe"
+      }
+    }
+  }
+}

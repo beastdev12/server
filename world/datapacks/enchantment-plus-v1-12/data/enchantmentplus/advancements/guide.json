@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "crafted": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "enchantmentplus:guide"
+            }
+        }
+    },
+    "rewards": {
+        "function": "enchantmentplus:crafting/guide"
+    }
+}

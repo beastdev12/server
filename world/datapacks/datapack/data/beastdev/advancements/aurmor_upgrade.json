@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"item": "minecraft:chestplate"
+		},
+		"title": "Aurmor_Upgrade",
+		"description": ["",{"text":"Now u can Ugrade your armors with only 1 item","color":"aqua"}],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "beastdev:root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}

@@ -1,0 +1,1367 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:protection\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_protection\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:blast_protection\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:projectile_protection\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:feather_falling\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:respiration\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:thorns\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:2s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:2s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:frost_walker\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:soul_speed\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sharpness\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:smite\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:smite\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:smite\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:smite\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:smite\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:smite\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:smite\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:smite\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:smite\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:smite\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:bane_of_arthropods\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:2s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:2s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:knockback\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:2s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:2s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fire_aspect\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:looting\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:unbreaking\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:power\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:power\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:power\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:power\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:power\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:power\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:power\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:power\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:power\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:power\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:2s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:2s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:punch\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:loyalty\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:riptide\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:impaling\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:impaling\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:impaling\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:impaling\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:impaling\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:impaling\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:impaling\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:impaling\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:impaling\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:impaling\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:quick_charge\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:quick_charge\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:quick_charge\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:quick_charge\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:piercing\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:efficiency\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:fortune\",lvl:9s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:3s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:3s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:4s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:4s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:5s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:5s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:6s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:6s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:7s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:7s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:8s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:8s}]}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:3b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:9s}]}},{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:9s}]}}]}"
+                    }
+                }
+            }
+        ]
+    }
+]

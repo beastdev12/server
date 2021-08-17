@@ -1,0 +1,2 @@
+execute positioned ^ ^ ^0.05 if block ~ ~ ~ minecraft:farmland align xyz run function enchantmentplus:custom/wide/hoe/convert
+execute positioned ^ ^ ^0.05 if block ~ ~ ~ #enchantmentplus:raycastable run function enchantmentplus:custom/wide/hoe/raycast

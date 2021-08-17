@@ -1,0 +1,10 @@
+[
+    {
+        "condition": "minecraft:location_check",
+        "predicate": {
+            "block": {
+                "nbt": "{Items:[{Slot:5b,tag:{StoredEnchantments:[{id:\"minecraft:quick_charge\",lvl:5s}]}}]}"
+            }
+        }
+    }
+]

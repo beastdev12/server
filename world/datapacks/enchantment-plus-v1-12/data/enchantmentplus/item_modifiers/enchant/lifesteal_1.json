@@ -1,0 +1,20 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{Lifesteal:1b}"
+    },
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            [
+                {
+                    "text": "Lifesteal I",
+                    "color": "#FF0000",
+                    "italic": false
+                }
+            ]
+        ],
+        "replace": false
+    }
+]

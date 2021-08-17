@@ -1,0 +1,13 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+        {
+            "condition": "minecraft:reference",
+            "name": "enchantmentplus:options/wide/sneaking"
+        },
+        {
+            "condition": "minecraft:reference",
+            "name": "enchantmentplus:options/wide/not_sneaking"
+        }
+    ]
+}

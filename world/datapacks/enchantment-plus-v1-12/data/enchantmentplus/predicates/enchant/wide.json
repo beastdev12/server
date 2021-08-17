@@ -1,0 +1,109 @@
+[
+    {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+            "equipment": {
+                "mainhand": {
+                    "items": [
+                        "minecraft:netherite_pickaxe",
+                        "minecraft:netherite_axe",
+                        "minecraft:netherite_shovel",
+                        "minecraft:netherite_hoe",
+                        "minecraft:diamond_pickaxe",
+                        "minecraft:diamond_axe",
+                        "minecraft:diamond_shovel",
+                        "minecraft:diamond_hoe",
+                        "minecraft:iron_pickaxe",
+                        "minecraft:iron_axe",
+                        "minecraft:iron_shovel",
+                        "minecraft:iron_hoe",
+                        "minecraft:stone_pickaxe",
+                        "minecraft:stone_axe",
+                        "minecraft:stone_shovel",
+                        "minecraft:stone_hoe",
+                        "minecraft:golden_pickaxe",
+                        "minecraft:golden_axe",
+                        "minecraft:golden_shovel",
+                        "minecraft:golden_hoe",
+                        "minecraft:wooden_pickaxe",
+                        "minecraft:wooden_axe",
+                        "minecraft:wooden_shovel",
+                        "minecraft:wooden_hoe",
+                        "minecraft:shears"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment": {
+                    "mainhand": {
+                        "nbt": "{Wide:1b}"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment": {
+                    "mainhand": {
+                        "nbt": "{Wide:2b}"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment": {
+                    "mainhand": {
+                        "nbt": "{Wide:3b}"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment": {
+                    "mainhand": {
+                        "nbt": "{Lumberjack:1b}"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+                "equipment": {
+                    "mainhand": {
+                        "nbt": "{Veinminer:1b}"
+                    }
+                }
+            }
+        }
+    }
+]

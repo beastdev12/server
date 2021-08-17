@@ -1,0 +1,410 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "Enchantment+Menu": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHAutosmeltOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHBeheadingOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHDeflectOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHDeflectTimer": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHDirectOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHIcyOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHLifestealOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHLumberOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHLumberOpt": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHLeaves": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHVeinminerOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHVeinminerOpt": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHGlowstoneOpt": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHGravelOpt": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHClayOpt": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHAndesiteOpt": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHDioriteOpt": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHGraniteOpt": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHMagmaOpt": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHWideOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHWideOpt": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHOwlEyeOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHFeederOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHFeederMode": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHLightnessOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHLeapingOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHThermalOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHGravityOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHExpBoostOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:inverted",
+                "term": {
+                    "condition": "minecraft:entity_scores",
+                    "entity": "this",
+                    "scores": {
+                        "ENCHLavaWalkOff": {
+                            "min": 0,
+                            "max": 2147483647
+                        }
+                    }
+                }
+            }
+        ]
+    }
+]

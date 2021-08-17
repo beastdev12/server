@@ -1,0 +1,63 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "feet": {
+                            "nbt": "{LavaWalker:1b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "feet": {
+                            "nbt": "{LavaWalker:2b}"
+                        }
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                    "equipment": {
+                        "feet": {
+                            "nbt": "{LavaWalker:3b}"
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "condition": "minecraft:entity_scores",
+        "entity": "this",
+        "scores": {
+            "ENCHLavaWalkOff": {
+                "min": 0,
+                "max": 0
+            }
+        }
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "blocks": [
+                        "minecraft:lava"
+                    ]
+                }
+            }
+        }
+    }
+]

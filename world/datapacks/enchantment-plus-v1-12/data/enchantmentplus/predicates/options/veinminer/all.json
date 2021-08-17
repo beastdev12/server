@@ -1,0 +1,13 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+        {
+            "condition": "minecraft:reference",
+            "name": "enchantmentplus:options/veinminer/sneaking"
+        },
+        {
+            "condition": "minecraft:reference",
+            "name": "enchantmentplus:options/veinminer/not_sneaking"
+        }
+    ]
+}

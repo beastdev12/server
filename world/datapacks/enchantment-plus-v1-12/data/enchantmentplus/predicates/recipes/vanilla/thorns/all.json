@@ -1,0 +1,76 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:alternative",
+                "terms": [
+                    {
+                        "condition": "minecraft:reference",
+                        "name": "enchantmentplus:recipes/gears/head_turtle"
+                    },
+                    {
+                        "condition": "minecraft:reference",
+                        "name": "enchantmentplus:recipes/gears/chest"
+                    },
+                    {
+                        "condition": "minecraft:reference",
+                        "name": "enchantmentplus:recipes/gears/legs"
+                    },
+                    {
+                        "condition": "minecraft:reference",
+                        "name": "enchantmentplus:recipes/gears/feet"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "condition": "minecraft:inverted",
+        "term": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "nbt": "{Items:[{Slot:3b,tag:{Enchantments:[{id:\"minecraft:thorns\",lvl:10s}]}}]}"
+                }
+            }
+        }
+    },
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/thorns/thorns_10"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/thorns/thorns_9"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/thorns/thorns_8"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/thorns/thorns_7"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/thorns/thorns_6"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/thorns/thorns_5"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/thorns/thorns_4"
+            },
+            {
+                "condition": "minecraft:reference",
+                "name": "enchantmentplus:recipes/vanilla/thorns/thorns_3"
+            }
+        ]
+    }
+]

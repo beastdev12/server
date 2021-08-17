@@ -1,0 +1,31 @@
+[
+    {
+        "condition": "minecraft:alternative",
+        "terms": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:name_tag\",tag:{display:{Name:'{\"text\":\"Lava Walker I\"}'}}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:name_tag\",tag:{display:{Name:'{\"text\":\"Lava Walker II\"}'}}}]}"
+                    }
+                }
+            },
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "nbt": "{Items:[{Slot:5b,id:\"minecraft:name_tag\",tag:{display:{Name:'{\"text\":\"Lava Walker III\"}'}}}]}"
+                    }
+                }
+            }
+        ]
+    }
+]

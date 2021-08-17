@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:netherite_chestplate"
+    },
+    "addition": {
+        "item": "minecraft:quartz"
+    },
+    "result": {
+        "item": "minecraft:netherite_chestplate",
+        "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{Unbreakable:1,Enchantments:[{id:thorns,lvl:5},{id:protection,lvl:5},{id:fire_protection,lvl:5},{id:soul_speed,lvl:5}.{id:depth_strider,lvl:5},{id:feather_falling,lvl:5},{id:depth_strider,lvl:5},{id:blast_protection,lvl:5}]}"
+            }
+          ]
+    }
+}

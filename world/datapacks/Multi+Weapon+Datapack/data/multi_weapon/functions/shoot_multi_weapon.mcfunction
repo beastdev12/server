@@ -1,0 +1,4 @@
+function multi_weapon:shoot_arrow
+function multi_weapon:shoot_arrow2
+function multi_weapon:shoot_arrow3
+function multi_weapon:shoot_trident
